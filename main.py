@@ -1,12 +1,13 @@
-from turtle import Turtle, Screen
+# if you import like that you should write each time like turtle.Turtle()
+#import turtle
+#tim = turtle.Turtle()
 
-timmy_the_turtle = Turtle()
-timmy_the_turtle.shape
+#You can write easily if you do:
 
+from turtle import Turtle
+tim = Turtle()
 
-
-
-
+from turtle import Screen
 
 
 
